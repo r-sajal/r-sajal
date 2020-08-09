@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-❕  Read My Blog - https://medium.com/@rsajal <br>
-❕ LinkedIn - https://www.linkedin.com/in/rsajal/ <br>
+🎓  Read My **Blog** - https://medium.com/@rsajal <br>
+❕ **LinkedIn** - https://www.linkedin.com/in/rsajal/ <br>
 📫 How to reach me - sajalrastogi03@gmail.com <br>
-🤔 I’m looking for #Internship <br>
-🤖 Machine Learning <br>
-🤘 WebDeveloper <br>
-✉️ Email me For Collabs <br>
+🤔 I’m looking for **Internship** <br>
+🤖 **Machine Learning** <br>
+🤘 **WebDeveloper** <br>
+✉️ Email me For **Collabs** <br>
 
  
