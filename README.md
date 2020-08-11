@@ -7,9 +7,10 @@
 🤔 I’m looking for **Internship** <br>
 🤖 **Machine Learning** Enthusiast<br>
 🤘 **WebDeveloper** <br>
-<a href = "https://medium.com/@rsajal"> <img src = "iconmonstr-medium-3"> </a><br>
-❕ **LinkedIn** - https://www.linkedin.com/in/rsajal/ <br>
-📫 How to reach me - sajalrastogi03@gmail.com <br>
-✉️ Email me For **Collabs** <br>
+✉️ Reach me **Collabs/Contact** - **sajalrastogi03@gmail.com** <br>
+<a href = "https://medium.com/@rsajal"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/iconmonstr-medium-3.svg"> </a> Click to Read my **Blog**<br>
+<a href = "https://medium.com/@rsajal"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/icons8-linkedin.svg"> </a> Lets **Connect**<br>
+
+
 
  
