@@ -10,7 +10,7 @@
 <br>
 ✉️ Reach me **Collabs/Contact** - **sajalrastogi03@gmail.com** <br>
 <br>
-<a href = "https://medium.com/@rsajal"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/iconmonstr-medium-3.svg" height="48px" width="48px"> </a> Click to Read my **Blog**<br>
+<a href = "https://medium.com/@rsajal"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/iconmonstr-medium-3.svg" height="42px" width="42px"> </a> Click to Read my **Blog**<br>
 
 <a href = "https://medium.com/@rsajal"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/icons8-linkedin.svg" height="48px" width="48px"> </a> Lets **Connect**<br>
 
