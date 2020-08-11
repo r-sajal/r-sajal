@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">I am Neha Malvia:information_desk_person:</h1>
+
 
 🤔 I’m looking for **Internship** <br>
 🤖 **Machine Learning** <br>
