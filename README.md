@@ -5,13 +5,13 @@
 - 🧑‍🎓 3rd Year Student of IIIT Kota 
 - 🤔 looking for **Internship** <br>
 - 🤖 **Machine Learning** Enthusiast<br>
-- 🤘 **WebDeveloper** <br>
-<br>
-Click to Read my **Blog**<br>
+- 🤘 **WebDeveloper** <br><br>
+
+Click to Read my **Blog** <br>
 <br>
 <a href = "https://medium.com/@rsajal"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/iconmonstr-medium-3.svg" height="39px" width="41px" style = "margin-left:2px"> </a>
  <br>
-Lets **Connect**<br>
+Lets **Connect** <br>
 <br>
 <a href = "https://www.linkedin.com/in/rsajal"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/icons8-linkedin.svg" height="48px" width="48px"> </a> 
 <a href = "mailto:sajalrastogi03@gmail.com"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/png/gmail_logo_PNG8.png" alt="Lets Collaborate" height="48px" width="48px"> </a> 
@@ -29,8 +29,8 @@ Lets **Connect**<br>
 <code><img align="center" height="40" alt ="Mysql" src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-mysql-logo-50.png"></code>
 <code><img align="center" height="40" alt ="Javascript" src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-javascript-48.png"></code>
 <code><img align="center" height="40" alt ="Html" src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-html-5-48.png"></code>
-
-<img align ="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=r-sajal">
+<br><br>
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=r-sajal">
 
 
 
