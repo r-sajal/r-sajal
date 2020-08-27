@@ -6,7 +6,7 @@
 - 🤔 looking for **Internship** <br>
 - 🤖 **Machine Learning** Enthusiast<br>
 - 🤘 **WebDeveloper** <br><br>
-
+- **0 error(s) , 0 warning(s)**
 Click to Read my **Blog** <br>
 <br>
 <a href = "https://medium.com/@rsajal"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/iconmonstr-medium-3.svg" height="39px" width="41px" style = "margin-left:2px"> </a>
