@@ -6,19 +6,20 @@
 - 🤔 looking for **Internship** <br>
 - 🤖 **Machine Learning** Enthusiast<br>
 - 🤘 **WebDeveloper** <br><br>
-- **0 error(s) , 0 warning(s)**<br>  <br>
-Click to Read my **Blog** <br>
-<br>
+- **0 error(s) , 0 warning(s)** 
+<br><br>
+Click to Read my <strong>Blog</strong> <br>
+
 <a href = "https://medium.com/@rsajal"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/iconmonstr-medium-3.svg" height="39px" width="41px" style = "margin-left:2px"> </a>
- <br>
+<br>
 Lets **Connect** <br>
 <br>
 <a href = "https://www.linkedin.com/in/rsajal"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/icons8-linkedin.svg" height="48px" width="48px"> </a> 
 <a href = "mailto:sajalrastogi03@gmail.com"> <img src = "https://github.com/r-sajal/r-sajal/blob/master/png/gmail_logo_PNG8.png" alt="Lets Collaborate" height="48px" width="48px"> </a> 
 <br>
 <br>
-**Languages and Tools:** &nbsp;
-<br>
+<b>Languages and Tools:</b>
+<br><br>
 <code><img align="center" height="40" alt = "Python" src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-python-48.png"></code>
 <code><img align="center" height="40" alt = "C++" src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-c%2B%2B-48.png"></code>
 <code><img align="center" height="40" alt = "Jupyter Notebook" src="https://github.com/r-sajal/r-sajal/blob/master/png/jupyter.png"></code>
@@ -30,10 +31,8 @@ Lets **Connect** <br>
 <code><img align="center" height="40" alt ="Javascript" src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-javascript-48.png"></code>
 <code><img align="center" height="40" alt ="Html" src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-html-5-48.png"></code>
 <br><br>
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=r-sajal">
 
-
-
-
-
- 
+<p align="center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=r-sajal" />
+</p>
+                                                                                               
