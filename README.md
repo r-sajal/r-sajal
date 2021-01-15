@@ -24,8 +24,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-html-5-48.png" alt="HTML5" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<p align="center"><img src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-c%2B%2B-48.png" alt="cplusplus" width="40" height="40"/><img src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-python-48.png" alt="python" width="40" height="40"/>  <img src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-javascript-48.png" alt="javascript" width="40" height="40"/><img src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-html-5-48.png" alt="HTML5" width="40" height="40"/>
+ <img src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-mysql-logo-50.png" alt="mysql" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="60" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   <img src="https://github.com/r-sajal/r-sajal/blob/master/png/kisspng-tensorflow-deep-learning-keras-machine-learning-ca-thumbtack-5ac9a963e258c2.3736393915231655399271.png" alt="Tensorflow" width="40" height="40"/>
