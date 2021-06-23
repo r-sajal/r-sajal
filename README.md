@@ -35,13 +35,13 @@
 
   <img src="https://github.com/r-sajal/r-sajal/blob/master/png/icons8-selenium-80.png" alt="Selenium" width="40" height="40"/>
  
-### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Currently vibing to : 
-<table width="100%">
+<!-- ### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Currently vibing to :  -->
+<!-- <table width="100%">
   <tr><td width="%100">
   
 &nbsp; &nbsp; [![Music Player](https://novatorem.r-sajal.vercel.app/api/spotify)](https://open.spotify.com/user/ua70taj4y4dif649gwxv02c6w)
  <img align="right" alt="GIF" src="https://github.com/r-sajal/r-sajal/blob/master/png/code.gif?raw=true" width="200" height="110" />
-</tr></td> </table>
+</tr></td> </table> -->
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Connect with me through : 
 <table width="100%">
@@ -55,7 +55,7 @@
   <li><a href ="https://rsajal.medium.com/hackerearths-cipher-combat-3-0-vapt-8ce854014980">HackerEarth Cipher Combat...</a> </li>
   <li><a href ="https://rsajal.medium.com/running-python-script-from-batch-file-6228bd2a473">Running Python from shell</a> </li>
   </ul>
-
+<h4> Read More Blogs: <a href="https://www.rsajal.medium.com">Medium</a> and <a href="https://www.analyticsvidhya.com/blog/author/r-sajal/">Analytics Vidhya</a> </h4>
 ![image](https://github.com/r-sajal/r-sajal/blob/master/png/dino.gif)
 
 
