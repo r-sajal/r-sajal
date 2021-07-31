@@ -1,0 +1,90 @@
+{
+	"basics": {
+		"name": "Sajal Rastogi",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2018kucp1132@iiitkota.ac.in",
+		"phone": "7827612750",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "---Tell Something about yourself ---",
+		"location": {
+			"address": "Gajraula",
+			"postalCode": "244235",
+			"city": "Gajraula",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "r-sajal",
+				"url": "https://www.github.com/r-sajal/"
+			},
+			{
+				"network": "linkedin",
+				"username": "rsajal",
+				"url": "https://www.linkedin.com/in/rsajal/"
+			},
+			{
+				"network": "Instagram",
+				"username": "r.s.a.j.a.l",
+				"url": "https://instagram.com/r.s.a.j.a.l"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "Hope Ngo",
+		"position": "Operations Lead",
+		"website": "https://www.hopeeverywhere.in/",
+		"startDate": "2018-09-01",
+		"endDate": "2021-07-01",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2018-07-01",
+		"endDate": "2022-06-22",
+		"gpa": "8.52",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Python"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Badminton"]
+	},{
+    "name": "Reading",
+    "keywords": ["Manga" , "Mahnwa" ,"Manhua"]
+  }],
+	"references": []
+}
