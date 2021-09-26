@@ -56,7 +56,7 @@
   <li><a href ="https://rsajal.medium.com/running-python-script-from-batch-file-6228bd2a473">Running Python from shell</a> </li>
   </ul>
   
-<h4> Read More Blogs: <a href="https://www.rsajal.medium.com">Medium</a> and <a href="https://www.analyticsvidhya.com/blog/author/r-sajal/">Analytics Vidhya</a> </h4>
+<h3> Read More Blogs: <a href="https://www.rsajal.medium.com">Medium</a> and <a href="https://www.analyticsvidhya.com/blog/author/r-sajal/">Analytics Vidhya</a> </h3>
 
 ![image](https://github.com/r-sajal/r-sajal/blob/master/png/dino.gif)
 
